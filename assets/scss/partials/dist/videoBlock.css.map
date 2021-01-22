@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["videoBlock.scss"],"sourcesContent":[".videoBlock {\n    video {\n        margin-bottom: 10px;\n        max-width: 100%;\n    }\n    .videoBlock__title {\n        font-size: 18px;\n        font-weight: 300;\n        margin-bottom: 10px;\n    }\n}"],"file":"videoBlock.css"}
